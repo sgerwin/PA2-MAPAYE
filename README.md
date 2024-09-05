@@ -25,7 +25,7 @@ To create a Python script/code in the Jupyter Notebook to do the given problems.
 ```
 import numpy as np
 ```
-* It is important to run import numpy as np as the whole python script wont run as it is dependent on that specific code
+* It is important to run "import numpy as np" as the whole python script wont run as it is dependent on that specific code
 
 ## Authors
 
