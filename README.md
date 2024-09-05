@@ -21,7 +21,6 @@ To create a Python script/code in the Jupyter Notebook to do the given problems.
 ### Executing program
 
 * How to run the program
-* Step-by-step bullets
 * In every cell you must press Shift + Enter to run the specific cell
 ```
 import numpy as np
