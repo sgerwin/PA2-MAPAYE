@@ -32,7 +32,8 @@ import numpy as np
 Sherwin Miguel C. Mapaye
 
 ## Version History
-
+* 0.3
+    * Removed extra cells
 * 0.2
     * Added markdowns to the .ipnyb file
 * 0.1
