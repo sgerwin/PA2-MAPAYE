@@ -1,11 +1,11 @@
 # PA 2 - Numerical Python (NUMPY)
 
-## Intended Learning Outcomes
+## :bulb: Intended Learning Outcomes
 - To identify the codes and functions incorporated in the Numpy library<br>
 - To be able to apply and use the different codes and functions in creating a Python program using a Numpy library
 
-### Instructions
-To create a Python script/code in the Jupyter Notebook to do the given problems
+### :hammer: Instructions
+- To create a Python script/code in the Jupyter Notebook to do the given problems
 
 ## :ledger: Index
 
