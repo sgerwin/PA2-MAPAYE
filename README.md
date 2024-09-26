@@ -2,39 +2,50 @@
 
 To create a Python script/code in the Jupyter Notebook to do the given problems.
 
-## Description/Given Problems
+## :ledger: Index
 
-1. NORMALIZATION PROBLEM
+- [Description/Given Problems](#beginner-descriptiongiven-problems)
+- [Getting Started](#green_circle-getting-started)
+   - [Dependencies](#electric_plug-dependencies)
+   - [Executing Program](#wrench-executing-prorgram)
+- [Author](#writing_hand-author)
+  - [Acknowledgements](#star2-acknowledgements)
+- [Version History](#scroll-version-history)
+
+## :beginner: Description/Given Problems
+
+**1. NORMALIZATION PROBLEM**
    - create a random 5 x 5 ndarray and store it to variable X. Normalize X. Save your normalized ndarray as X_normalized.npy
-2. DIVISIBLE BY 3 PROBLEM
+**2. DIVISIBLE BY 3 PROBLEM**
    - given the 10x10 ndarray which are the squares of the first 100 positive integers.
    - Determine all the elements that are divisible by 3. Save the result as div_by_3.npy
 
-## Getting Started
+## :green_circle: Getting Started
 
-### Dependencies
+### :electric_plug: Dependencies
 
 * Anaconda Navigator
 * Jupyter Notebook
-* Any updated form of Windows/Mac/Linux that can run the programs above
+* Any updated version of Windows, Mac, or Linux that is capable of running the programs above.
 
-### Executing program
+### :wrench: Executing Program
 
 * How to run the program
-* In every cell you must press Shift + Enter to run the specific cell
+* In order to run each cell, please remember to press **_Shift + Enter_**
 ```
 import numpy as np
 ```
-* It is important to run "import numpy as np" as the whole python script wont run as it is dependent on that specific code
+* It is **_crucial_** to include __"import pandas as pd"__ as the entire Python script relies on this specific code.
 
-## Authors
+## :writing_hand: Author
+* Sherwin Miguel C. Mapaye
 
-Sherwin Miguel C. Mapaye
+### :star2: Acknowledgements
+* [Engr. Ma. Madecheen S. Pangaliman, MSc](https://www.ust.edu.ph/profile/pangaliman-ma-madecheen-s)<br>
+* Engr. Nico John Leo S. Lobos
 
-## Version History
-* 0.3
-    * Removed extra cells
-* 0.2
-    * Added markdowns to the .ipnyb file
+## :scroll: Version History
 * 0.1
-    * Initial Release
+   * Initial Release
+
+
