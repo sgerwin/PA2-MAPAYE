@@ -19,7 +19,8 @@ To create a Python script/code in the Jupyter Notebook to do the given problems.
 
 2. **DIVISIBLE BY 3 PROBLEM**
    - Given the 10x10 ndarray which are the squares of the first 100 positive integers
-     ![Alt text](given.png)
+![Alt text](given.png)
+
    - Determine all the elements that are divisible by 3. Save the result as div_by_3.npy
 
 ## :green_circle: Getting Started
