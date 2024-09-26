@@ -38,7 +38,7 @@
 ### :electric_plug: Dependencies
 
 * Anaconda Navigator
-* Jupyter Notebook
+* Jupyter Notebook / Visual Studio Code
 * Any updated version of Windows, Mac, or Linux that is capable of running the programs above.
 
 ### :wrench: Executing Program
