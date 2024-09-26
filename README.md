@@ -43,7 +43,7 @@ To create a Python script/code in the Jupyter Notebook to do the given problems.
 ```
 import numpy as np
 ```
-* It is **_crucial_** to include __"import pandas as pd"__ as the entire Python script relies on this specific code.
+* It is **_crucial_** to include __"import numpy as np"__ as the entire Python script relies on this specific code.
 
 ## :writing_hand: Author
 * Sherwin Miguel C. Mapaye
