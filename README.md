@@ -22,6 +22,7 @@ To create a Python script/code in the Jupyter Notebook to do the given problems.
      <br>
      <br>
      Given:
+     <br>
      ![Alt text](given.png)
      <br>
    - Determine all the elements that are divisible by 3. Save the result as div_by_3.npy
