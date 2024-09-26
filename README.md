@@ -27,7 +27,7 @@
      <br>
      <br>
      Given:
-     <br><br>
+     <br>
      ![Alt text](given.png)
      <br>
      <br>
