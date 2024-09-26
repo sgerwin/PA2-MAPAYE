@@ -1,4 +1,4 @@
-# PA 2 - Numerical Python
+# PA 2 - Numerical Python (NUMPY)
 
 To create a Python script/code in the Jupyter Notebook to do the given problems.
 
