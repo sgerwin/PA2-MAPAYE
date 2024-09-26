@@ -4,7 +4,7 @@
 - To identify the codes and functions incorporated in the Numpy library<br>
 - To be able to apply and use the different codes and functions in creating a Python program using a Numpy library
 
-## Instructions
+### Instructions
 To create a Python script/code in the Jupyter Notebook to do the given problems
 
 ## :ledger: Index
