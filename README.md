@@ -1,7 +1,7 @@
 # PA 2 - Numerical Python (NUMPY)
 
 ## Intended Learning Outcomes
-- To identify the codes and functions incorporated in the Numpy library <br>
+- To identify the codes and functions incorporated in the Numpy library
 - To be able to apply and use the different codes and functions in creating a Python program using a Numpy library
 
 ## Instructions
