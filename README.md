@@ -28,10 +28,7 @@
      <br>
      Given:
      <br>
-     <div align="center">
-        
      ![Alt text](given.png)
-     </div>
      <br>
      <br>
    - Determine all the elements that are divisible by 3. Save the result as div_by_3.npy
